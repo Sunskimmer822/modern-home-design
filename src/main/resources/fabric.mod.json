@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "modern-home-design",
+	"version": "${version}",
+	"name": "Modern Home Design",
+	"description": "Did you laboriously toil just to spend all of your life savings on a 0.01 square meter new york apartment? Now you can redesign your home using modern materials such as: galvanized square steel, eco friendly wood veneers, and wash basins.",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/Sunskimmer822/modern-home-design"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/modern-home-design/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.serenas.modernhomedesign.ModernHomeDesign"
+		],
+		"fabric-datagen": [
+			"net.serenas.modernhomedesign.ModernHomeDesignDataGenerator"
+		]
+	},
+	"mixins": [
+		"modern-home-design.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.6",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		
+	}
+}
