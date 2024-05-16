@@ -15,7 +15,8 @@ public class ModernHomeDesign implements ModInitializer {
 	//TODO: make merging folding tables fold up/down with multiple blocks from wall
 	//TODO: wash basins
 	//TODO: storage for out-of-season clothing
-	//TODO: 
+	//TODO: water tanks in the wall????? probably just use NBT to be honest
+	//TODO: add random kid entities
 
 
 	@Override

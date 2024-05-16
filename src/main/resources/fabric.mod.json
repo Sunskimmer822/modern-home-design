@@ -3,12 +3,11 @@
 	"id": "modern-home-design",
 	"version": "${version}",
 	"name": "Modern Home Design",
-	"description": "Did you laboriously toil just to spend all of your life savings on a 0.01 square meter new york apartment? Now you can redesign your home using modern materials such as: galvanized square steel, eco friendly wood veneers, and wash basins.",
+	"description": "Did you laboriously toil just to spend all of your life savings on a 0.01 square meter new york apartment? Now you can redesign your home using modern materials such as galvanized square steel, eco friendly wood veneers, and wash basins.",
 	"authors": [
-		"Me!"
+		"Sunskimmer82 (Serena)"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/Sunskimmer822/modern-home-design"
 	},
 	"license": "CC0-1.0",
